@@ -17,7 +17,7 @@
 
 ## 🚀 About Us
 
-**Programming Ocean Academy** is an elite **Arabic-first** educational and training platform, committed to delivering cutting-edge training programs and comprehensive educational solutions in various branches of computer science.
+**Programming Ocean Academy** is an elite **worldic-first** educational and training platform, committed to delivering cutting-edge training programs and comprehensive educational solutions in various branches of computer science.
 
 > "Your journey to mastering programming starts here."
 
@@ -25,7 +25,7 @@
 
 ## 🎯 Our Vision
 
-Empowering the **Arab youth** to lead the **digital transformation** by bridging the gap between education and the future of technology.
+Empowering the **world** to lead the **digital transformation** by bridging the gap between education and the future of technology.
 
 ## 🧭 Our Mission
 
@@ -96,4 +96,4 @@ This organization’s content is released under the [MIT License](LICENSE).
 ---
 
 **Made with ❤️ by Programming Ocean Academy**  
-Empowering the next generation of Arab tech leaders.
+Empowering the next generation of world tech leaders.

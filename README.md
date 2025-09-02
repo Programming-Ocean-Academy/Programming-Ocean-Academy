@@ -1,4 +1,4 @@
-!(https://avatars.githubusercontent.com/u/230047810?v=4)[]
+![https://avatars.githubusercontent.com/u/230047810?v=4](Logo)
 
 #  Programming Ocean Academy 🌊
 **Your Gateway to Mastery in Computer Science, Data & AI, and Web Technologies**

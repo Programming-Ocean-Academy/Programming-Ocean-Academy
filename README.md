@@ -70,7 +70,7 @@ Delivering **world-class training services** backed by modern knowledge and real
 
 ## 🌐 Quick Links
 
-- 💻 [All platforms links]([[https://your-website.com/courses](https://www.programming-ocean.com/links.php)])
+- 🔗 [All platforms links](https://www.programming-ocean.com/links.php)
 
 ---
 

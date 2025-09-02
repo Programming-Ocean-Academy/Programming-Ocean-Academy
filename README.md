@@ -94,3 +94,6 @@ This organization’s content is released under the [MIT License](LICENSE).
 
 **Made with ❤️ by Programming Ocean Academy**  
 Empowering the next generation of world tech leaders.
+
+
+Thank you for stopping by - let's build the future with AI 😃

@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://programmingoceanacademy.s3.ap-southeast-1.amazonaws.com/images/programming-ocean-academy-logo.png" alt="Programming Ocean Academy Logo" width="300"/>
 </p>
-#  Programming Ocean Academy 🌊
+
+#  Programming Ocean Academy 
 **Your Gateway to Mastery in Computer Science, Data & AI, and Web Technologies**
 
 ![GitHub followers](https://img.shields.io/github/followers/programming-ocean-academy?style=social)

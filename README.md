@@ -1,4 +1,6 @@
-# 🌊 Programming Ocean Academy 🌊
+!(https://avatars.githubusercontent.com/u/230047810?v=4)[]
+
+#  Programming Ocean Academy 🌊
 **Your Gateway to Mastery in Computer Science, Data & AI, and Web Technologies**
 
 ![GitHub followers](https://img.shields.io/github/followers/programming-ocean-academy?style=social)

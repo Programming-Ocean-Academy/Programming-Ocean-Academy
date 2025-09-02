@@ -1,4 +1,4 @@
-![https://avatars.githubusercontent.com/u/230047810?v=4](Logo)
+![https://programmingoceanacademy.s3.ap-southeast-1.amazonaws.com/images/programming-ocean-academy-logo.png](Logo)
 
 #  Programming Ocean Academy 🌊
 **Your Gateway to Mastery in Computer Science, Data & AI, and Web Technologies**

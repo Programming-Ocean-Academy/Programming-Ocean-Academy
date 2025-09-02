@@ -1,5 +1,6 @@
-![https://programmingoceanacademy.s3.ap-southeast-1.amazonaws.com/images/programming-ocean-academy-logo.png](Logo)
-
+<p align="center">
+  <img src="https://programmingoceanacademy.s3.ap-southeast-1.amazonaws.com/images/programming-ocean-academy-logo.png" alt="Programming Ocean Academy Logo" width="300"/>
+</p>
 #  Programming Ocean Academy 🌊
 **Your Gateway to Mastery in Computer Science, Data & AI, and Web Technologies**
 

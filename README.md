@@ -70,17 +70,13 @@ Delivering **world-class training services** backed by modern knowledge and real
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats, Streaks, Top Langs, Trophies - all-in-one! -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=default&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true" alt="Top Languages" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </p>
-
 
 
 

@@ -71,11 +71,11 @@ Delivering **world-class training services** backed by modern knowledge and real
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=programming-ocean-academy&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programming-ocean-academy&layout=compact&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=programming-ocean-academy&theme=flat&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 

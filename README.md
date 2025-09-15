@@ -68,6 +68,23 @@ Delivering **world-class training services** backed by modern knowledge and real
 
 ---
 
+## 📊 GitHub Stats
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=default&hide_border=true)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true)
+
+<!-- GitHub Trophies (Optional) -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&margin-w=5)
+
+
+
+
 ## 🌐 Quick Links
 
 - 🔗 [All platforms links](https://www.programming-ocean.com/links.php)

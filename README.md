@@ -75,7 +75,7 @@ Delivering **world-class training services** backed by modern knowledge and real
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programming-ocean-academy&layout=compact&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=programming-ocean-academy&theme=flat&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=programming-ocean-academy&theme=flat&no-frame=true&margin-w=5"  />
 </p>
 
 

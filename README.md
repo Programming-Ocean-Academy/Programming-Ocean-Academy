@@ -11,7 +11,7 @@
 ![Languages](https://img.shields.io/github/languages/count/programming-ocean-academy/web-development)
 ![Last Commit](https://img.shields.io/github/last-commit/programming-ocean-academy/machine-learning)
 [![Website](https://img.shields.io/badge/visit-our%20website-blue)](https://www.programming-ocean.com/)
-[![Join Us](https://img.shields.io/badge/join-us-brightgreen)]([https://your-join-link.com](https://www.programming-ocean.com/links.php))
+[![Join Us](https://img.shields.io/badge/join-us-brightgreen)]([https://www.programming-ocean.com/links.php]()
 
 ---
 

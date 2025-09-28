@@ -2,7 +2,7 @@
   <img src="https://programmingoceanacademy.s3.ap-southeast-1.amazonaws.com/images/programming-ocean-academy-logo.png" alt="Programming Ocean Academy Logo" width="300"/>
 </p>
 
-#  Programming Ocean Academy 
+# Programming Ocean Academy 
 **Your Gateway to Mastery in Computer Science, Data & AI, and Web Technologies**
 
 ![GitHub followers](https://img.shields.io/github/followers/programming-ocean-academy?style=social)
@@ -15,39 +15,39 @@
 
 ---
 
-## 🚀 About Us
+## About Us
 
-**Programming Ocean Academy** is an elite **worldic-first** educational and training platform, committed to delivering cutting-edge training programs and comprehensive educational solutions in various branches of computer science.
+**Programming Ocean Academy** is an elite educational and training platform, committed to delivering cutting-edge training programs and comprehensive educational solutions in various branches of computer science.
 
 > "Your journey to mastering programming starts here."
 
 ---
 
-## 🎯 Our Vision
+## Vision
 
-Empowering the **world** to lead the **digital transformation** by bridging the gap between education and the future of technology.
+Empowering the world to lead the digital transformation by bridging the gap between education and the future of technology.
 
-## 🧭 Our Mission
+## Mission
 
-Delivering **world-class training services** backed by modern knowledge and real-world professional experience. We believe in **impactful learning, continuous innovation**, and **digital empowerment**.
-
----
-
-## 💡 Core Values
-- ✔️ **Quality in Performance**
-- ✔️ **Professionalism & Ethics**
-- ✔️ **Creativity & Innovation**
-- ✔️ **Academic Excellence**
-- ✔️ **Inclusivity & Collaboration**
-- ✔️ **Sustainable Learning**
-- ✔️ **Community Responsibility**
+Delivering world-class training services backed by modern knowledge and real-world professional experience. We believe in impactful learning, continuous innovation, and digital empowerment.
 
 ---
 
-## 🎓 What We Teach
+## Core Values
+- Quality in Performance  
+- Professionalism & Ethics  
+- Creativity & Innovation  
+- Academic Excellence  
+- Inclusivity & Collaboration  
+- Sustainable Learning  
+- Community Responsibility  
 
-| 🌍 Program | 💼 Topics |
-|-----------|-----------|
+---
+
+## What We Teach
+
+| Program | Topics |
+|---------|--------|
 | **Data & AI** | Data Science, Machine Learning, Deep Learning, AI Engineering, NLP, Computer Vision |
 | **Web Development** | Full-stack Web Apps, JavaScript, PHP |
 | **Math & Statistics** | Linear Algebra, Calculus, Probability, Statistical Modelling |
@@ -56,10 +56,10 @@ Delivering **world-class training services** backed by modern knowledge and real
 
 ---
 
-## 📁 Repositories
+## Repositories
 
-| 📂 Repo | 🌐 Domain | 🔍 Description |
-|--------|-----------|----------------|
+| Repo | Domain | Description |
+|------|--------|-------------|
 | [`web-development`](https://github.com/programming-ocean-academy/web-development) | Web | HTML/CSS, JS, PHP, Responsive Design, Frontend/Backend Projects |
 | [`machine-learning`](https://github.com/programming-ocean-academy/machine-learning) | ML | Supervised & Unsupervised Learning, Scikit-learn, Projects |
 | [`deep-learning`](https://github.com/programming-ocean-academy/deep-learning) | DL | Neural Networks, CNNs, RNNs, Transformers, TensorFlow, PyTorch |
@@ -68,7 +68,7 @@ Delivering **world-class training services** backed by modern knowledge and real
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=programming-ocean-academy&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
@@ -78,34 +78,33 @@ Delivering **world-class training services** backed by modern knowledge and real
   <img src="https://github-profile-trophy.vercel.app/?username=programming-ocean-academy&theme=flat&no-frame=true&margin-w=5"  />
 </p>
 
+---
 
+## Quick Links
 
-## 🌐 Quick Links
-
-- 🔗 [All platforms links](https://www.programming-ocean.com/links.php)
+- [All platforms links](https://www.programming-ocean.com/links.php)
 
 ---
 
-## 💬 Quote We Live By
+## Quote We Live By
 
 > "Learning to code is not just about syntax. It's about unlocking the power to **build**, **analyze**, and **transform the world**."
 
 ---
 
-## 🧠 Let's Build the Future of Tech Together
+## Let's Build the Future of Tech Together
 
-If you're a student, educator, or developer passionate about programming, data science, or AI — **you belong here**. Collaborate, contribute, and code with us!
+If you're a student, educator, or developer passionate about programming, data science, or AI — you belong here. Collaborate, contribute, and code with us!
 
 ---
 
-## 🧭 License
+## License
 
 This organization’s content is released under the [MIT License](LICENSE).
 
 ---
 
 **Made with ❤️ by Programming Ocean Academy**  
-Empowering the next generation of world tech leaders.
+Empowering the next generation of world tech leaders.  
 
-
-Thank you for stopping by - let's build the future with AI 😃
+Thank you for stopping by — let's build the future with AI.
